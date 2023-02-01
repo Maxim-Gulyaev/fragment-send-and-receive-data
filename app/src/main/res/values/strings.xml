@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FragmentSendAndReceiveData</string>
+    <string name="sender_header">fragment-sender</string>
+    <string name="receiver_header">fragment-receiver</string>
+    <string name="integer_input">enter integer</string>
+    <string name="string_input">enter string</string>
+    <string name="btn_transition_with_data">send data and go</string>
+    <string name="btn_transition_without_data">go without data</string>
+    <string name="no_data">no data</string>
+    <string name="go_back">go back</string>
+</resources>
